@@ -20,6 +20,7 @@ Gender Inequality in Japan
 [Barriers to Gender Equality in Japan: Moving from Myth to Realities](https://link.springer.com/chapter/10.1007/978-3-030-75154-8_2)
 
 [How intercultural experience affects university students’ gender views: potential for transforming higher education in Japan](https://link.springer.com/article/10.1007/s12564-022-09801-5)
+
 3. Surveys
 [Gender equality in Japan - statistics & facts](https://www.statista.com/topics/7768/gender-equality-in-japan/#topicOverview)
 

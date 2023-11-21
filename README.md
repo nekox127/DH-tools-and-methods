@@ -2,20 +2,31 @@
 Gender Inequality in Japan
 # Existing Research
 1. Reports and articles
-[An international comparison of gender equality: Why is the Japanese gender gap so persistent](https://www.jil.go.jp/english/JLR/documents/2013/JLR38_estevez-abe.pdf)
-[Development and gender equality: Consequences, causes, challenges and cures](https://core.ac.uk/download/pdf/14913005.pdf)
+   
+[An international comparison of gender equality: Why is the Japanese gender gap so persistent](https://www.jil.go.jp/english/JLR/documents/2013/JLR38_estevez-abe.pdf)   
+
+[Development and gender equality: Consequences, causes, challenges and cures](https://core.ac.uk/download/pdf/14913005.pdf)  
+
 [The Devil you Know: Gender equality in Japan](https://www.ipsos.com/sites/default/files/ct/newsroom/documents/2022-02/Flair-Japan-2022-Gender-Inequality.pdf)
+
 [Gender Inequalities in Japan: Gender Division of Labour and Health](https://doi.org/10.1093/oso/9780198848134.003.0003)
+
 [Progress and problems of gender equality in Japanese academics and geosciences](https://adgeo.copernicus.org/articles/53/195/2020/)
+
 [Women and Political Inequality in Japan: Gender Imbalanced Democracy](https://academic.oup.com/ssjj/article-abstract/26/2/247/7056738)
+
 [Gender inequality in Japan: The status of women, and their promotion in the workplace](https://www.researchgate.net/publication/331287537_Gender_inequality_in_Japan_The_status_of_women_and_their_promotion_in_the_workplace)
+
 [Barriers to Gender Equality in Japan: Moving from Myth to Realities](https://link.springer.com/chapter/10.1007/978-3-030-75154-8_2)
+
 [How intercultural experience affects university students’ gender views: potential for transforming higher education in Japan](https://link.springer.com/article/10.1007/s12564-022-09801-5)
 3. Surveys
 [Gender equality in Japan - statistics & facts](https://www.statista.com/topics/7768/gender-equality-in-japan/#topicOverview)
+
 [People's perceptions of gender equality status](https://www.gender.go.jp/research/weekly_data/02.html)
+
 4. Projects
-[Gender in Japan – UTokyo Center for Contemporary Japanese Studies](Gender in Japan – UTokyo Center for Contemporary Japanese Studies}
+[Gender in Japan – UTokyo Center for Contemporary Japanese Studies](https://tcjs.u-tokyo.ac.jp/gender-in-japan)
 # Research Questions
 1. How does Japan differ from other developed countries?
 2. What is the current status of gender equality in Japan?

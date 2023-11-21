@@ -36,33 +36,57 @@ Gender Inequality in Japan
 3. What factors contribute to Japan standing out as one of the few developed countries grappling with severe gender inequality?
 # Research Process
 1. How does Japan differ from other developed countries?
+   
    Literature Review: Conduct a comprehensive literature review comparing Japan to other developed countries in terms of socio-economic indicators, cultural factors, and historical context.
+   
    Statistical Analysis: Utilize statistical data to compare key economic and social indicators between Japan and other developed nations. This can include aspects like GDP, employment rates, education, and healthcare.
+   
 2. What is the current status of gender equality in Japan?
+   
    Surveys and Interviews: Going thorugh surveys or interviews with individuals in Japan to gather secondhand perspectives on gender roles, workplace dynamics, and societal expectations.
+   
    Quantitative Analysis: Utilize existing data on gender-related metrics such as wage gaps, representation in leadership roles, and educational attainment to assess the current state of gender equality.
+   
    Policy Analysis: Examine government policies and initiatives aimed at promoting gender equality in Japan.
+   
 3. What factors contribute to Japan standing out as one of the few developed countries grappling with severe gender inequality?
+   
    Historical Analysis: Explore the historical development of gender roles and societal norms in Japan, identifying key events or cultural shifts that may have contributed to the current situation.
+   
    Comparative Analysis: Compare Japan's policies, cultural attitudes, and legal frameworks regarding gender equality with those of other developed nations that exhibit more favorable gender equality outcomes.
+   
    In-depth Case Studies: Conduct case studies on specific aspects contributing to gender inequality in Japan, such as workplace culture, legal barriers, or cultural expectations.
 
 # Data
 1. Quantitative Data:
+
 Economic Indicators: GDP per capita, unemployment rates, industry composition.
+
 Social Indicators: Education levels, healthcare metrics, poverty rates.
+
 Gender Pay Gap: Average earnings of men vs. women.
+
 Workforce Representation: Percentage of women in leadership positions.
+
 Educational Attainment: Disparities in education between genders.
+
 Legal Framework: Analysis of laws pertaining to gender equality.
+
 Policy Effectiveness: Evaluation of government initiatives and policies.
+
 Economic Disparities: Disparities in employment opportunities and wages.
-2. Qualitative Data:
+
+2.  Qualitative Data:
 Cultural Factors: Societal norms, values, and cultural practices.
+
 Historical Context: Key historical events shaping Japan's development.
+
 Workplace Dynamics: Insights into workplace culture, discrimination, and bias.
+
 Societal Expectations: Perspectives on traditional gender roles and societal expectations.
+
 Cultural Barriers: Qualitative insights into cultural factors impacting gender roles.
+
 Case Studies: In-depth examination of specific incidents or policies affecting gender equality.
 
 # Tools&Methods

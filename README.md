@@ -21,12 +21,14 @@ Gender Inequality in Japan
 
 [How intercultural experience affects university students’ gender views: potential for transforming higher education in Japan](https://link.springer.com/article/10.1007/s12564-022-09801-5)
 
-3. Surveys
+2. Surveys
+   
 [Gender equality in Japan - statistics & facts](https://www.statista.com/topics/7768/gender-equality-in-japan/#topicOverview)
 
 [People's perceptions of gender equality status](https://www.gender.go.jp/research/weekly_data/02.html)
 
-4. Projects
+3. Projects
+   
 [Gender in Japan – UTokyo Center for Contemporary Japanese Studies](https://tcjs.u-tokyo.ac.jp/gender-in-japan)
 # Research Questions
 1. How does Japan differ from other developed countries?
